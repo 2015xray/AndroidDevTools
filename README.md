@@ -4,8 +4,9 @@ AndroidDevTools
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/inferjay/AndroidDevTools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Android Dev Tools官网地址：[www.androiddevtools.cn](http://www.androiddevtools.cn)**
-* 
-**developer.android.com Google官网地址：[www.androiddevtools.cn](https://developer.android.com/sdk/installing/index.html?pkg=studio)**
+* Google 
+
+**developer.android.com Google官网地址：[developer.android.com ](https://developer.android.com/sdk/installing/index.html?pkg=studio)**
 
 
 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
