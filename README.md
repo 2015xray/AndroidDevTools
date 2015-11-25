@@ -4,7 +4,7 @@ AndroidDevTools
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/inferjay/AndroidDevTools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Android Dev Tools官网地址：[www.androiddevtools.cn](http://www.androiddevtools.cn)**
-* Google 
+* Google :smile: :octocat:
 
 **developer.android.com Google官网地址：[developer.android.com ](https://developer.android.com/sdk/installing/index.html?pkg=studio)**
 
